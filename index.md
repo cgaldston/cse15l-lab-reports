@@ -5,6 +5,9 @@
 # Changing this heading because I Can
 ## Sample Heading 2
 
+[Lab Report 1](lab-report-1-week-2.html)
+
+
 [Link](https://www.youtube.com/watch?v=PVWndYcW4NE)
 
 ![Image](https://www.capecod.com/wp-content/uploads/SK_Eastham-Wellfleet-Tidal-Scenic_11.06.17-3.jpg)
