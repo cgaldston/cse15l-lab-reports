@@ -1,11 +1,11 @@
 *Practice Italic Text*
 **sample bold text**
 
-# Samle Heading
+# Sample Heading
 ## Sample Heading 2
 
 [Link](https://www.youtube.com/watch?v=PVWndYcW4NE)
-![Image] (https://www.atlasandboots.com/wp-content/uploads/2019/05/ama-dablam2-most-beautiful-mountains-in-the-world.jpg)
+![Image] (https://toppng.com/uploads/preview/spider-man-png-clipart-spiderman-11563069948whuzsyplwv.png)
 
 > sample blockquote
 
