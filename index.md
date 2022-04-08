@@ -5,7 +5,8 @@
 ## Sample Heading 2
 
 [Link](https://www.youtube.com/watch?v=PVWndYcW4NE)
-![Image] (https://toppng.com/uploads/preview/spider-man-png-clipart-spiderman-11563069948whuzsyplwv.png)
+
+![Image](https://toppng.com/uploads/preview/spider-man-png-clipart-spiderman-11563069948whuzsyplwv.png)
 
 > sample blockquote
 
