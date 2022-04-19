@@ -5,7 +5,7 @@
 # Changing this heading because I Can
 ## Sample Heading 2
 
-[Lab Report 1](https://<your-username>.github.io/<your-lab-reports-repo>/lab-report-1-week-2.html)
+[Lab Report 1](https://cgaldston.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
 
 [Link](https://www.youtube.com/watch?v=PVWndYcW4NE)
