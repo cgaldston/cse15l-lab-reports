@@ -14,7 +14,7 @@ Output:
 The bug in MarkdownParse.java is that the parser was treating images the same as links. This resulted in it returning the address of the image along with the other links in the file. Images are not links, so therefore it should not return them.
 
 
-# Second Code Change
+# Second Code Change (Empty Lines)
 
 ![image](fixed-issue2.jpg)
 
@@ -22,3 +22,16 @@ The bug in MarkdownParse.java is that the parser was treating images the same as
 
 Output: 
 ![image](issue2-output.jpg)
+
+The issue with this test file was that the empty lines between the links caused the program to time out. Once it got past the initial links the empty space caused it to run out of memory. 
+
+# Third Code Change (Blank File)
+
+![image](issue3.jpg)
+
+[Third Failed Test File](https://github.com/PeterNguyen4/markdown-parser/blob/main/fourth-test-file.md)
+
+Output: 
+![image](issue3-output.jpg)
+
+If you try to run this program on an empty file it will still return brackets, but with nothing in them. It should return an error message telling the user why there was an error running the program.
