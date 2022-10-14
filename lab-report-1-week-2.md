@@ -1,5 +1,3 @@
-!!!!This is my Lab Report from last quarter. I was unable to log into ssh still, so I thought that I would submit my work from last quarter because the questions are identical. Hopefully this is not in violation of any academic integrity policies as it is my own work. I will come to office hours to try to get me password working and I am totally willing to resubmit the lab report once it works. 
-
 
 # Setting Up VSCode
 In order to set up Visual Studio Code on your machine you will want to go the VS Code website at: [https://code.visualstudio.com/](https://code.visualstudio.com). Follow the instructions on the page for setting it up on your Operating System. Once it is all set up your home page should look like this: ![image](VSCodeSetUp.png)
@@ -13,7 +11,7 @@ You'll need to know your UCSD username and PID which you'll put into these field
 
 Next, you will connect to the remote  computer through VS Code. Open the terminal in VS Code and type in the following command:
 
-$ ssh cs15lsp22zz@ieng6.ucsd.edu
+$ ssh cs15lfa22zz@ieng6.ucsd.edu
 
 Make sure to replace the zz with the letters in your ucsd-specific account. 
 
@@ -94,7 +92,7 @@ Enter same passphrase again:
 
 And now you need to copy the key to the .ssh directory on your server
 
-$ ssh cs15lsp22zz@ieng6.ucsd.edu
+$ ssh cs15lfa22zz@ieng6.ucsd.edu
 
 <Enter Password>
 
