@@ -49,6 +49,7 @@ public class SearchEngine {
 }
 ```
 
+I couldn't get my search engine to work. Looking for feedback on the first part of this. 
 
 
 
@@ -58,7 +59,7 @@ public class SearchEngine {
 
 
 
- # Part 2
+# Part 2
 
 ## Bug Number 1 (Array)
  !['Failure Inducing input'](failureinput1.png)
