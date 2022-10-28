@@ -13,7 +13,7 @@ You'll need to know your UCSD username and PID which you'll put into these field
 
 Next, you will connect to the remote  computer through VS Code. Open the terminal in VS Code and type in the following command:
 
-$ ssh cs15lsp22zz@ieng6.ucsd.edu
+$ ssh cs15lfa22zz@ieng6.ucsd.edu
 
 Make sure to replace the zz with the letters in your ucsd-specific account. 
 
