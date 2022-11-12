@@ -72,7 +72,7 @@ Same exact process as the first call to the server. This time it is adding the s
 
 
 !['search'](thirdstring.png) 
-The else part of the handleRequest method is being called now. The call contains the path /search so it loops the arrayList and see if each string contains the second parameter of the call which in this case is app. Since apple and pineapple both contain app they get concat to the empty string variable returnString. This string variable is then returned. 
+The else part of the handleRequest method is being called now. The call contains the path /search so it loops the arrayList and see if each string contains the second parameter of the call which in this case is app. Since apple and pineapple both contain app they get concat to the empty string variable returnString. This string variable is then returned. i
 
 
 
