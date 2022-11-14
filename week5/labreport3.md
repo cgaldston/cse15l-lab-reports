@@ -23,4 +23,4 @@ If you add multiple file names after a given file and text string you can test w
 
 Similar to the find command if you add a -i before the string of characters you can search insensitive the capitilzation. 
 
-Grep can also do many commands in relation to words such as -E which means go to the end of the current word, or W which means go to the next word. 
+Grep can also do many commands in relation to words such as -E which means go to the end of the current word, or W which means go to the next word. x
